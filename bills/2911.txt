@@ -1,0 +1,18 @@
+	 Welcome Webcode Retail
+
+ Bill No : 2911
+ Customer Name : Nikhil
+ Phone No : 7019527561
+*******************************************
+ Product		  Qty		     Price
+*******************************************
+Bath Soap		  2		     80
+Daal		  4		     240
+Cock		  7		     420
+-------------------------------------------
+Cosmetic Tax				     4.0
+Grocery Tax				     12.0
+Cold Drink Tax				     21.0
+-------------------------------------------
+Total Price				    777.0
+-------------------------------------------
